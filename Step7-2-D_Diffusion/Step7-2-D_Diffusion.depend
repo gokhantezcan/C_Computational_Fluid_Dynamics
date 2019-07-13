@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554780064 source:/home/gokhan/Desktop/Files/CFD_Coding/CFD_C_Programming/Step7-2-D_Diffusion/main.c
+	<stdio.h>
+	<stdlib.h>
+

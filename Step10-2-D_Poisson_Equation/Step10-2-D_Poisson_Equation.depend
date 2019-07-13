@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556113035 source:/home/gokhan/Desktop/Files/CFD_Coding/CFD_C_Programming/Step10-2-D_Poisson_Equation/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554766918 source:/home/gokhan/Desktop/Files/CFD_Coding/CFD_C_Programming/Step-6-2-D_Nonlinear_Convection/main.c
+	<stdio.h>
+	<stdlib.h>
+
